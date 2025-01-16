@@ -1,5 +1,5 @@
 ### Hi there 👋
-[https://dheerajcl.vercel.app/](https://dheerajcl.vercel.app/)
+[dheerajcl.vercel.app](https://dheerajcl.vercel.app/)
 
 [![An image of @dheerajcl's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dheerajcl)](https://holopin.io/@dheerajcl)
 
